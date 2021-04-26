@@ -1,6 +1,6 @@
 # agenda-petshop
 Projeto do curso Rest com NodeJS: API com Express e MySQL da plataforma Alura Cursos Online.
-Descrição: API para manipualação de dados referentes aos atendimentos em um petshop. 
+#### Descrição: API para manipulação de dados referentes aos atendimentos em um petshop. 
 
 ### Conteúdo do Projeto
 - Criação de API REST
